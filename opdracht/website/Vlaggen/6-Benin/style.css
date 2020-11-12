@@ -1,0 +1,41 @@
+/* Hier hoef je niks mee te doen */
+* {
+	font-size: 0;
+}
+
+#container {
+	width: 900px;
+	height: 600px;
+	background-color: blanchedalmond;
+	border: 1px solid black;
+	display: flex;
+
+}
+
+
+
+/* Hieronder kun je gaan editen */
+
+#links {
+	width: calc(100%/3);
+	background-color: darkgreen;
+
+}
+
+#rechts {
+
+	width: calc(100%/1.5);
+
+}
+
+#rechtsboven {
+
+	height: 50%;
+	background-color: yellow;
+
+}
+
+#rechtsonder {
+	height: 50%;
+	background-color: red;
+}
